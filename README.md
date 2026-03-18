@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,4 +19,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
