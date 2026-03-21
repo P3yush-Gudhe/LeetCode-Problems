@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
