@@ -13,6 +13,7 @@
 | [0011-container-with-most-water](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
