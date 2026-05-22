@@ -10,6 +10,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -55,4 +56,8 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
