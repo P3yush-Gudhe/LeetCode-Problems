@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -73,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
