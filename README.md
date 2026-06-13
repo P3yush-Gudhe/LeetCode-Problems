@@ -81,6 +81,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0169-majority-element](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## String
@@ -90,6 +91,7 @@
 | [0012-integer-to-roman](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
