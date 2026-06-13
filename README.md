@@ -33,11 +33,13 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0050-powx-n](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
