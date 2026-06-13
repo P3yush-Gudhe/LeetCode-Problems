@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Recursion
@@ -87,6 +88,7 @@
 | [0010-regular-expression-matching](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
