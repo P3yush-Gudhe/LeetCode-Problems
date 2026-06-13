@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
@@ -105,8 +106,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
