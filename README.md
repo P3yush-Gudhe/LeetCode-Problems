@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
