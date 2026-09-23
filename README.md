@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +90,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0169-majority-element](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
