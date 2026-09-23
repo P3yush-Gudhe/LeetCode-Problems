@@ -95,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0058-length-of-last-word](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
