@@ -130,4 +130,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/P3yush-Gudhe/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
